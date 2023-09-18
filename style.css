@@ -1,0 +1,42 @@
+.top{
+    border: 4px solid red;
+    width: 80%;
+    font-family: monospace;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#rubrik{
+    background-color: aqua;
+    border: 1px solid black;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.mellan{
+    border: 4px solid orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#rubrik_h{
+    border: 2px solid black;
+    background-color:lightpink;
+    width: 49%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#rubrik_v{
+    border: 2px solid black;
+    background-color: yellow;
+    width: 49%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom{
+    border:2px solid yellow;
+    text-align: center;
+    display: flex;
+}
